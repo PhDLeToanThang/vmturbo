@@ -21,3 +21,4 @@ ví dụ: màn hình lệnh
 
 
 ## Bước 3. Dùng quyền Root hoặc AD User thuộc nhóm ESX Admins hoặc được phân quyền tương đương Root và Deploy file OVA đã được download về hoặc được tạo mới từ lệnh VMware OVF Tool.
+
