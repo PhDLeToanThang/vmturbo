@@ -1,4 +1,5 @@
 # vmturbo
+<<<<<<< HEAD
 Hệ thống giám sát, phân tích các thông số chi tiết xác định lỗi thiếu CPU, RAM, Network IO hoặc IOPS Storage
 
 ## Bước 1. Đường link download các công cụ dùng cho cài đặt, triển khai, kích hoạt license vmTurbo:
@@ -22,3 +23,6 @@ ví dụ: màn hình lệnh
 
 ## Bước 3. Dùng quyền Root hoặc AD User thuộc nhóm ESX Admins hoặc được phân quyền tương đương Root và Deploy file OVA đã được download về hoặc được tạo mới từ lệnh VMware OVF Tool.
 
+=======
+ Hệ thống giám sát, phân tích các thông số chi tiết xác định lỗi thiếu CPU, RAM, Network IO hoặc IOPS Storage
+>>>>>>> parent of 3f09985 (Update README.md)
